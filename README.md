@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.com/CHAAAAA/seed-docs.svg?branch=master)](https://travis-ci.com/CHAAAAA/seed-docs)
