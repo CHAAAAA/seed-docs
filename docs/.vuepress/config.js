@@ -1,7 +1,7 @@
 module.exports = {
   title: "Spring Boot Seed",
   description: "Spring Boot with MyBatis",
-  base: "/",
+  base: "/seed-docs/",
 
   themeConfig: {
     nav: [
